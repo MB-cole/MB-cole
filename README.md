@@ -1,5 +1,5 @@
 ## Hi there 👋 My name is Marquis as you could probably already tell. I am currently (as of 2025)
-a Software/Web Dev student studying and Milwaukee Area Technical college 
+A Software/Web Dev student studying and Milwaukee Area Technical college 
 
 - 🔭 I’m currently working on pursuing an Associate degree at MATC
     - programming languages i've messed with in my studies include: Java, Js, HTML, CSS, SQL,
