@@ -1,7 +1,5 @@
 ## Hi there 👋 My name is Marquis as you could probably already tell. I am currently (as of 2025)
 a Software/Web Dev student studying and Milwaukee Area Technical college 
-<!--
-**MB-cole/MB-cole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on pursuing an Associate degree at MATC
     - programming languages i've messed with in my studies include: Java, Js, HTML, CSS, SQL,
@@ -14,4 +12,4 @@ a Software/Web Dev student studying and Milwaukee Area Technical college
     - My hobbies include: gaming and watching anime along with listening to music and drawing.
 
     - 📫 How to reach me: browncom@gmatc.matc.edu
--->
+
