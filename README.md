@@ -6,6 +6,7 @@ A Software/Web Dev student studying and Milwaukee Area Technical college
        and PHP.
     - some tools used: Git, Wireframe, VS code, Netbeans, SQl Sever Management Studio,
       FileZilla Client and NPM
+    - check out the organisation section to see some of my growth through my class projects!
 
 - ⚡ About Me: i have been exposed to technology since i could remember. I have always enjoyed taking things apart and attempting to figure out how they work 
       even if such task often left said object broken beyond repair...
