@@ -12,6 +12,6 @@ A Software/Web Dev student studying and Milwaukee Area Technical college
       even if such task often left said object broken beyond repair...
     - My hobbies include: gaming along with listening to music and reading.
 
-    - 📫 How to reach me: browncom@gmatc.matc.edu
+    - 📫 How to reach me: marquis.bcole@gmail.com
 
 (most class projects can be found under my name in Orgs, which are titled as classes)
